@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Raj</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="fps" width="400" src="https://www.google.com/search?q=animated+coding+gif&sca_esv=595369570&tbm=isch&sxsrf=AM9HkKkpd2FRNysenWQ-A7FIz5xSphZWfw:1704294948039&source=lnms&sa=X&ved=2ahUKEwimouG3wcGDAxUjhGMGHVe4CMEQ_AUoAnoECAIQBA&biw=1366&bih=651&dpr=1#imgrc=Fe9w5pmKk2xu7M">
+<img align="right" alt="fps" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitraj31&label=Profile%20views&color=0e75b6&style=flat" alt="mohitraj31" /> </p>
 
