@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Raj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img align="right" alt="fps" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="fps" width="400" src="https://media0.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952w0dv3n12syqhihstd6lqycz53xwae479523cpjns&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitraj31&label=Profile%20views&color=0e75b6&style=flat" alt="mohitraj31" /> </p>
