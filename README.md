@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitraj31&label=Profile%20views&color=0e75b6&style=flat" alt="mohitraj31" /> </p>
 
-- 🌱 I’m currently learning **C++,Html,backend development**
+- 🌱 I’m currently learning **C++,Html,backend development, blender**
+
+- 👨‍💻 All of my projects are available at [Https://GitHub.com/Mohitraj31?tab=repositories](Https://GitHub.com/Mohitraj31?tab=repositories)
 
 - 📫 How to reach me **Mohitraj7501@gmail.com**
+
+- 📄 Know about my experiences [I have completed the full Python cources in 2022](I have completed the full Python cources in 2022)
+
+- ⚡ Fun fact **I'm funny ✌️(kinde off)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
