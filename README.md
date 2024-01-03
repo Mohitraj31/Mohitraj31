@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Raj</h1>
 <h3 align="center">A passionate developer from India</h3>
 
+<img align="right" alt="fps" width="400" src="https://giphy.com/embed/2IudUHdI075HL02Pkk">
+
 <iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitraj31&label=Profile%20views&color=0e75b6&style=flat" alt="mohitraj31" /> </p>
